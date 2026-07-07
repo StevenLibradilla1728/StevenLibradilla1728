@@ -92,8 +92,14 @@
 
 </p>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlibradilla1728&show_icons=true&locale=en&layout=compact" alt="stevenlibradilla1728" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true&locale=en" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728" alt="GitHub Streak" width="45%" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728&" alt="stevenlibradilla1728" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlibradilla1728&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+</p>
+
 
                                                        
