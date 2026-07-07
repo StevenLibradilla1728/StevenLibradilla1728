@@ -80,26 +80,31 @@
   </a>
 
   <!-- C++ -->
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-</a>
+  <a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
+  </a>
 
-
-  <!-- Arduino (if you still want it at the end) -->
+  <!-- Arduino -->
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
 
 </p>
 
-<!-- Alternative 1: Using GitHub's own API with a different service -->
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<!-- Top Languages  -->
 <p align="center">
-  <img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact&theme=default" alt="Top Languages" />
 </p>
 
+<!-- GitHub Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728&theme=default" alt="GitHub Streak" />
 </p>
 
-
-                                                       
+<!-- Alternative: Stats with GitHub's own API -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true&locale=en" alt="GitHub Stats" />
+</p>
