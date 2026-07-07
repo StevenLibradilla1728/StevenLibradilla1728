@@ -6,9 +6,9 @@
 </p>
 
 - 🛠️ Currently working on personal projects to strengthen my full stack development skills
-- 🎓 Student at QCU, eager to learn and continuously sharpening my development skills
+- 🎓 Graduated at QCU, eager to learn and continuously sharpening my development skills
 - 🌱 Learning Laravel, Tailwind CSS, and MySQL, while diving deeper into JavaScript and PHP
-- 🚀 Exploring React for front-end and improving my problem-solving through hands-on coding
+- 🚀 Exploring React and improving my problem-solving through hands-on coding
 - 📫 Reach me at: jslibradilla@gmail.com
 
 <h3 align="left">Tech Stack</h3>
