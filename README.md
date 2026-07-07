@@ -92,12 +92,13 @@
 
 </p>
 
+<!-- Alternative 1: Using GitHub's own API with a different service -->
 <p align="center">
   <img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
 </p>
 
 
