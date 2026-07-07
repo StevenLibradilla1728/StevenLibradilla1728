@@ -92,12 +92,10 @@
 
 </p>
 
-<!-- Top Languages -->
 <p align="center">
-  <img src="https://stats.dooboo.io/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats-git-master.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
 </p>
