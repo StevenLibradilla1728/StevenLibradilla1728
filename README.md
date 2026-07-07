@@ -99,12 +99,12 @@
   <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
 </p>
 
-<!-- Top Languages -->
+<!-- Top Languages from GitHub API -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/stevenlibradilla1728" alt="GitHub Chart" />
 </p>
 
-<!-- Overall Stats -->
+<!-- Complete Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=stevenlibradilla1728&theme=github" alt="Profile Details" />
 </p>
