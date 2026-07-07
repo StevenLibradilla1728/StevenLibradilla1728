@@ -92,13 +92,14 @@
 
 </p>
 
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true&locale=en" alt="GitHub Stats" width="45%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=stevenlibradilla1728" alt="GitHub Streak" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact&langs_count=8" alt="Top Languages" />
 </p>
 
+<!-- Streak Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=stevenlibradilla1728&show_icons=true&locale=en&layout=compact" alt="Top Languages" width="45%" />
+  <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
 </p>
 
 
