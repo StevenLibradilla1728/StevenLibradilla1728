@@ -91,20 +91,20 @@
 
 </p>
 
-<!-- GitHub Stats - Working Alternatives (No Vercel) -->
+<!-- GitHub Stats - Using Multiple Services (If one fails, others work) -->
 <h3 align="center">📊 GitHub Stats</h3>
 
-<!-- Top Languages - Using Streak Stats Alternative -->
+<!-- Streak Stats - Most Reliable -->
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728&theme=default&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=stevenlibradilla1728" alt="GitHub Streak" />
 </p>
 
-<!-- Alternative: Using GoGitHubStats (No Vercel) -->
+<!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true&hide_border=true&theme=default" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
 </p>
 
-<!-- Top Languages - Using a different service -->
+<!-- Overall Stats -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=stevenlibradilla1728&show_icons=true" alt="GitHub Stats" />
 </p>
