@@ -94,7 +94,7 @@
 
 <!-- Top Languages -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=stevenlibradilla1728&layout=compact&langs_count=8" alt="Top Languages" />
+  <img src="https://stats.dooboo.io/api/top-langs/?username=stevenlibradilla1728&layout=compact" alt="Top Languages" />
 </p>
 
 <!-- Streak Stats -->
